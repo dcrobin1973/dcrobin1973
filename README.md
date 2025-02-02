@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning ...
 - Preparing to be a Nurse (in pre-nursing)
-- Want to learn some Coding (Python and Scala)
+- Want to learn some Coding (Python, Rust,and Scala)
 
 📫 How to reach me ...
 - on X:dcxrobinson
