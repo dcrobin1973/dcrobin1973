@@ -1,6 +1,7 @@
 👋 Hi, I’m @dcrobin1973, I am Gen X!
 
 👀 I’m interested in ...
+- Universal Blue Project (https://github.com/ublue-os)
 - Music
 - Photography
 - Gaming
@@ -9,7 +10,7 @@
 - NFTS and Crypto
 
 🌱 I’m currently learning ...
-- Preparing to be a Nurse (in pre-nursing)
+- Preparing to be a Investigative Journalist.
 - Want to learn some Coding (Python, Rust, and Scala)
 
 📫 How to reach me ...
