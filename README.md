@@ -2,7 +2,6 @@
 
 👀 I’m interested in ...
 - Universal Blue Project [Bazzite] (https://github.com/ublue-os)
-- Avenge Media [Dank Linux] (https://github.com/AvengeMedia)
 - Music
 - Photography
 - Gaming
